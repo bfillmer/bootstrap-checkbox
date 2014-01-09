@@ -3,6 +3,9 @@ bootstrap-checkbox
 
 A checkbox component based on bootstrap framework
 
+### TODO
+Update documentation to more accurately reflect current Font-Awesome support. Swap library to prefrence font-based checkboxes as they are more reliable and extendable (colors, sizes, etc).
+
 ## Author
 [Roberto Montresor](https://github.com/montrezorro)
 
